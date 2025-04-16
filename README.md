@@ -9,5 +9,5 @@ Repositório dedicado à criação, prototipagem e testes de componentes e telas
 
 ### 🛠️ Tecnologias:
 - Vue 3
-- Material-UI (pode citar o framework específico, ex: Vuetify, Quasar, etc.)
+- Material-UI
 - Vite
